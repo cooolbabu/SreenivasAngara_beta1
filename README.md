@@ -1,2 +1,5 @@
 # SreenivasAngara_beta1
-Redirect page
+
+
+This is a redirect page to 
+[Sreenivas Angara Blog](https://cooolbabu.github.io/SreenivasAngara/
