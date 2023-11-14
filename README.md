@@ -3,4 +3,4 @@
 
 This is a redirect page to 
 
-[Sreenivas Angara Blog](https://cooolbabu.github.io/SreenivasAngara/)
+![Sreenivas Angara Blog](https://cooolbabu.github.io/SreenivasAngara/)
